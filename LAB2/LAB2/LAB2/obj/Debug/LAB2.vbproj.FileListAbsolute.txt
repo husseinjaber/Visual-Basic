@@ -1,0 +1,11 @@
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB2\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB2\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB2\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB2\LAB2\LAB2\bin\Debug\LAB2.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB2\LAB2\LAB2\obj\Debug\LAB2.vbprojResolveAssemblyReference.cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB2\LAB2\LAB2\obj\Debug\LAB2.Form1.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB2\LAB2\LAB2\obj\Debug\LAB2.Resources.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB2\LAB2\LAB2\obj\Debug\LAB2.vbproj.GenerateResource.Cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB2\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB2\LAB2\LAB2\obj\Debug\LAB2.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB2\LAB2\LAB2\obj\Debug\LAB2.pdb

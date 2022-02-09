@@ -1,0 +1,11 @@
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.4\Ex.4\obj\Debug\Ex.4.vbprojResolveAssemblyReference.cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.4\Ex.4\obj\Debug\Ex._4.Form1.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.4\Ex.4\obj\Debug\Ex._4.Resources.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.4\Ex.4\obj\Debug\Ex.4.vbproj.GenerateResource.Cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.4\Ex.4\bin\Debug\Ex.4.exe.config
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.4\Ex.4\bin\Debug\Ex.4.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.4\Ex.4\bin\Debug\Ex.4.pdb
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.4\Ex.4\bin\Debug\Ex.4.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.4\Ex.4\obj\Debug\Ex.4.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.4\Ex.4\obj\Debug\Ex.4.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.4\Ex.4\obj\Debug\Ex.4.pdb

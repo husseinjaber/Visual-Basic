@@ -1,0 +1,11 @@
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.From textbox to another\Ex.From textbox to another\bin\Debug\Ex.From textbox to another.exe.config
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.From textbox to another\Ex.From textbox to another\bin\Debug\Ex.From textbox to another.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.From textbox to another\Ex.From textbox to another\bin\Debug\Ex.From textbox to another.pdb
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.From textbox to another\Ex.From textbox to another\bin\Debug\Ex.From textbox to another.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.From textbox to another\Ex.From textbox to another\obj\Debug\Ex.From textbox to another.vbprojResolveAssemblyReference.cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.From textbox to another\Ex.From textbox to another\obj\Debug\Ex.From_textbox_to_another.Form1.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.From textbox to another\Ex.From textbox to another\obj\Debug\Ex.From_textbox_to_another.Resources.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.From textbox to another\Ex.From textbox to another\obj\Debug\Ex.From textbox to another.vbproj.GenerateResource.Cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.From textbox to another\Ex.From textbox to another\obj\Debug\Ex.From textbox to another.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.From textbox to another\Ex.From textbox to another\obj\Debug\Ex.From textbox to another.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Ex.From textbox to another\Ex.From textbox to another\obj\Debug\Ex.From textbox to another.pdb

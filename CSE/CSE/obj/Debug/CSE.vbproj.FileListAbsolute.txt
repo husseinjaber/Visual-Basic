@@ -1,0 +1,11 @@
+C:\Users\Atab\Desktop\CCNE\Visual Basic\CSE\CSE\bin\Debug\CSE.exe.config
+C:\Users\Atab\Desktop\CCNE\Visual Basic\CSE\CSE\bin\Debug\CSE.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\CSE\CSE\bin\Debug\CSE.pdb
+C:\Users\Atab\Desktop\CCNE\Visual Basic\CSE\CSE\bin\Debug\CSE.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\CSE\CSE\obj\Debug\CSE.vbprojResolveAssemblyReference.cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\CSE\CSE\obj\Debug\CSE.Resources.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\CSE\CSE\obj\Debug\CSE.vbproj.GenerateResource.Cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\CSE\CSE\obj\Debug\CSE.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\CSE\CSE\obj\Debug\CSE.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\CSE\CSE\obj\Debug\CSE.pdb
+C:\Users\Atab\Desktop\CCNE\Visual Basic\CSE\CSE\obj\Debug\CSE.Form1.resources

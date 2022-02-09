@@ -1,0 +1,13 @@
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\obj\Debug\LAB3.vbprojResolveAssemblyReference.cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\obj\Debug\LAB3.Resources.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\obj\Debug\LAB3.Timervb.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\obj\Debug\LAB3.vbproj.GenerateResource.Cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\bin\Debug\LAB3.exe.config
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\bin\Debug\LAB3.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\bin\Debug\LAB3.pdb
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\bin\Debug\LAB3.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\obj\Debug\LAB3.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\obj\Debug\LAB3.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\obj\Debug\LAB3.pdb
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\obj\Debug\LAB3.Scroll.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\LAB3\LAB3\LAB3\obj\Debug\LAB3.Form1.resources

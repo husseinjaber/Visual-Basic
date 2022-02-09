@@ -1,0 +1,22 @@
+C:\Users\Atab\Desktop\Atab's Calculator\Atab's Calculator\bin\Debug\Atab's Calculator.exe.config
+C:\Users\Atab\Desktop\Atab's Calculator\Atab's Calculator\bin\Debug\Atab's Calculator.exe
+C:\Users\Atab\Desktop\Atab's Calculator\Atab's Calculator\bin\Debug\Atab's Calculator.pdb
+C:\Users\Atab\Desktop\Atab's Calculator\Atab's Calculator\bin\Debug\Atab's Calculator.xml
+C:\Users\Atab\Desktop\Atab's Calculator\Atab's Calculator\obj\Debug\Atab's Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Atab\Desktop\Atab's Calculator\Atab's Calculator\obj\Debug\Atab_s_Calculator.Form1.resources
+C:\Users\Atab\Desktop\Atab's Calculator\Atab's Calculator\obj\Debug\Atab_s_Calculator.Resources.resources
+C:\Users\Atab\Desktop\Atab's Calculator\Atab's Calculator\obj\Debug\Atab's Calculator.vbproj.GenerateResource.Cache
+C:\Users\Atab\Desktop\Atab's Calculator\Atab's Calculator\obj\Debug\Atab's Calculator.exe
+C:\Users\Atab\Desktop\Atab's Calculator\Atab's Calculator\obj\Debug\Atab's Calculator.xml
+C:\Users\Atab\Desktop\Atab's Calculator\Atab's Calculator\obj\Debug\Atab's Calculator.pdb
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Atab's Calculator\Atab's Calculator\obj\Debug\Atab's Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Atab's Calculator\Atab's Calculator\obj\Debug\Atab_s_Calculator.Form1.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Atab's Calculator\Atab's Calculator\obj\Debug\Atab_s_Calculator.Resources.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Atab's Calculator\Atab's Calculator\obj\Debug\Atab's Calculator.vbproj.GenerateResource.Cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Atab's Calculator\Atab's Calculator\obj\Debug\Atab's Calculator.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Atab's Calculator\Atab's Calculator\obj\Debug\Atab's Calculator.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Atab's Calculator\Atab's Calculator\obj\Debug\Atab's Calculator.pdb
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Atab's Calculator\Atab's Calculator\bin\Debug\Atab's Calculator.exe.config
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Atab's Calculator\Atab's Calculator\bin\Debug\Atab's Calculator.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Atab's Calculator\Atab's Calculator\bin\Debug\Atab's Calculator.pdb
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Atab's Calculator\Atab's Calculator\bin\Debug\Atab's Calculator.xml

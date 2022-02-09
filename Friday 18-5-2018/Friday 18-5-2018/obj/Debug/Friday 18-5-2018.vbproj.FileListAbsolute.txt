@@ -1,0 +1,10 @@
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Friday 18-5-2018\Friday 18-5-2018\bin\Debug\Friday 18-5-2018.exe.config
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Friday 18-5-2018\Friday 18-5-2018\bin\Debug\Friday 18-5-2018.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Friday 18-5-2018\Friday 18-5-2018\bin\Debug\Friday 18-5-2018.pdb
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Friday 18-5-2018\Friday 18-5-2018\bin\Debug\Friday 18-5-2018.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Friday 18-5-2018\Friday 18-5-2018\obj\Debug\Friday_18_5_2018.Form1.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Friday 18-5-2018\Friday 18-5-2018\obj\Debug\Friday_18_5_2018.Resources.resources
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Friday 18-5-2018\Friday 18-5-2018\obj\Debug\Friday 18-5-2018.vbproj.GenerateResource.Cache
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Friday 18-5-2018\Friday 18-5-2018\obj\Debug\Friday 18-5-2018.exe
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Friday 18-5-2018\Friday 18-5-2018\obj\Debug\Friday 18-5-2018.xml
+C:\Users\Atab\Desktop\CCNE\Visual Basic\Friday 18-5-2018\Friday 18-5-2018\obj\Debug\Friday 18-5-2018.pdb

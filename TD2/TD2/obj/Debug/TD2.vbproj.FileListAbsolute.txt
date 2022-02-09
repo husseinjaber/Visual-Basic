@@ -1,0 +1,11 @@
+C:\Users\Atab\Desktop\TD2\TD2\bin\Debug\TD2.exe.config
+C:\Users\Atab\Desktop\TD2\TD2\bin\Debug\TD2.exe
+C:\Users\Atab\Desktop\TD2\TD2\bin\Debug\TD2.pdb
+C:\Users\Atab\Desktop\TD2\TD2\bin\Debug\TD2.xml
+C:\Users\Atab\Desktop\TD2\TD2\obj\Debug\TD2.vbprojResolveAssemblyReference.cache
+C:\Users\Atab\Desktop\TD2\TD2\obj\Debug\TD2.Form1.resources
+C:\Users\Atab\Desktop\TD2\TD2\obj\Debug\TD2.Resources.resources
+C:\Users\Atab\Desktop\TD2\TD2\obj\Debug\TD2.vbproj.GenerateResource.Cache
+C:\Users\Atab\Desktop\TD2\TD2\obj\Debug\TD2.exe
+C:\Users\Atab\Desktop\TD2\TD2\obj\Debug\TD2.xml
+C:\Users\Atab\Desktop\TD2\TD2\obj\Debug\TD2.pdb
